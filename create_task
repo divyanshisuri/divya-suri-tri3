@@ -1,21 +1,7 @@
-Link Video Individual 3a
+{% include navigation.html %}
 
-(i) The hangman game is a great way to keep people from the ages of 6 to 86 engaged in learning new vocabulary words. 
-The focus of this game is on guessing letters in order to figure out a word or phrase. A character gets "hanged" after 
-a specified number of failed guesses. (ii) The video shows the user clicking on the three different levels (easy,medium, and hard), 
-and guesses letters for a word. When the incorrect letter is guessed, the message of “The word does not contain the letter _” pops up
-and when multiple letters are guessed at a time, the message of “one letter at a time” pops up. (iii) The input of the program would 
-be a letter that the user enters in an attempt to guess what word is chosen in the system. The output would be either the letter placement
-in the word if it were a correct guess or if it were to be an incorrect guess, more of the stick figure’s parts are to appear in the image.
-3b (i) image (ii) image (iii) Some of the lists provided in the code are fiveLetter, sevenLetter, and nineLetter. These correspond with the 
-various levels that are provided for the users (iv) The difficulty of the level that is chosen allows for the program to choose any word which 
-are five letter, seven letter, and nine letter (v) The complexity is present when the actual words that are to be guessed are present in the code. 
-Instead of legitimately adding the words into the code, we can pull the data making it easier to run the program and decreasing the complexity.
-3c (i) image (ii) image (iii) The importance of guessing in the code is that it checks whether the letter that has been guessed by the user is correct and if 
-it is, then it adds it to the word. If it is incorrect, it adds a limb to the man that has been hung. (iv) The first part of the code checks if the input that
-has been entered by the is legitimate. So if an input of nothing or of multiple letters is programmed to give a message to the user. If the wrong letter
-has been guessed by the user, then it adds limbs and if the correct letter has been guessed then it adds it to the word. This process iterates over and
-over until the game has either ended or if the user wins. 3d (i) The first call is when the guess button is used by the user to check if the letter they
-guessed was correct or not. The second call is when the most difficult level has been used to increase the obstacles to win the game. (ii) The first call 
-is when the inputs entered by the user are to be checked. The second call is when a wrong letter has been entered and the system checks it. (iii) The result
-of the program is checking if the letter guessed by the user is in the word or not. The second call results in the system is lowering the winning chance of the user.
+**_Create Task_**
+
+|Profile Link | Written Responses |
+| --------------- | --------------- | 
+|  <a href="https://github.com/divyanshisuri" </a> | <a href= https://github.com/RohanG326/supporting_cast/wiki/Divya-Create-Task-Video-and-Write-Up |
