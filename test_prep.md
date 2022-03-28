@@ -44,7 +44,7 @@ it to cause damage or to promote good. When cyberbullying and other forms of har
 * Biases can be embedded at all levels of software development
 
 
-5.4: Notes
+**5.4: Notes**
 * WIdespread access to information and public data facilitates the identification of problems, development of solutions, and dissemination of results
 * Science has been affected by using distributed and “citizen science” to solve scientific problems
 * Citizen science is scientific research conducted in whole or part by distributed individuals, many of whom may not be scientists, who contribute relevant data to research using their own computing devices
@@ -55,4 +55,43 @@ it to cause damage or to promote good. When cyberbullying and other forms of har
 * We can collaborate on an idea for a computer science problem, which draws ideas from various people 
 **2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?**
 * Using peoples opinions from various background we can use feedback from those who are not in computer science. 
+
+**5.5 Notes**
+* Material created on a computer is the intellectual property of the creator or an organization
+* Ease of access and distribution of digitized information raises intellectual property concerns regarding ownership, value, and use
+* Measures should be taken to safeguard intellectual property
+* Open source: Programs are made freely available and may be redistributed and modified
+* Open access: Online research output free of any and all restriction on access and free of many restrictions on use, such as copyright or license restrictions
+* The development of algorithms that include bias
+* The existence of computing devices that collect and analyze data by continuously monitoring activities
+* Intellectual Property (IP): a work or invention that is the result of creativity to which one has rights
+* Copyright protects your IP and keeps anyone from using it, unless you give them your permission
+* Plagiarism: Presenting material as your own
+* Creative Commons provides free licenses that you can use to tell others how you want them to use your creations
+* It clearly tells others what they can and can not do with your IP
+
+**5.6 Notes**
+* Personally identifiable information (PII) is information about an individual that identifies, links, relates, or describes them
+* Search engines can record and maintain a history of searches made by users
+* Websites can record and maintain a history of individuals who have viewed their pages
+* Devices, websites, and networks can collect information about a user’s location
+* Technology enables that collection, use, and exploitation of information about, by, and for individuals, groups, and institutions
+* Search engines can use search history to suggest websites or for targeted marketing
+* Disparate personal data, such as geolocation, cookies, and browsing history, can be aggregated to create knowledge about an individual
+* PII and other information place online can be used to enhance a user’s online experiences
+* PII stored online can be used to simplify making online purchases
+* Commercial and government curation of information may be exploited if privacy and other protections are ignored
+* Information placed online can be used in ways that were not intended and that may have a harmful impact. For example, an email message may be forwarded, tweets can be retweeted, and social media posts can be viewed by potential employers
+* PII can be used to stalk or steal the identity of a person or to aid in the planning of other criminal acts
+* Authentication measures protect devices and information from unauthorized access. Examples of authentication measures include strong passwords and multifactor authentication
+* Multifactor authentication is a method of computer access control in which a user is only granted access after successfully presenting several separate pieces  of evidence to an authentication mechanism, typically in at least two of the following categories: knowledge (something they know) possession (something they have), and ingerence (something they are)
+* Multi Factor authentication requires at least two steps to unlock protected information; each step adds a new layer of security that must be broken to gain unauthorized access
+* Encryption is the process of encoding data to prevent unauthorized access. Decryption is the process of decoding the data.
+* Computer virus and malware scanning software can help protect a computing system against infection
+* A computer virus is a malicious program that can copy itself and gain access to a computer in an unauthorized way. Computer viruses often attach themselves to legitimate programs and start running independently on a computer
+* Malware is software intended to damage a computing system or to take partial control over its operation
+
+
+
+
 
