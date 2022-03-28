@@ -90,7 +90,20 @@ it to cause damage or to promote good. When cyberbullying and other forms of har
 * Computer virus and malware scanning software can help protect a computing system against infection
 * A computer virus is a malicious program that can copy itself and gain access to a computer in an unauthorized way. Computer viruses often attach themselves to legitimate programs and start running independently on a computer
 * Malware is software intended to damage a computing system or to take partial control over its operation
-
+1. Make a license for your personal and Team project. Document license you picked and why.
+* We picked the MIT because we want credit for our work but also want our ideas to spread. 
+2. Describe PII you have seen on project in CompSci Principles.
+* About us pages have PII or private information 
+3. What are your feelings about PII and your exposure?
+* I think PII should be kept private because its your private information. I dont expose my private information because I dont want to be stalked. 
+4. Describe good and bad passwords? What is another step that is used to assist in authentication.
+* Good password = complicated. Bad password = easy to figure out. Double factor authentication. 
+5. Try to describe Symmetric and Asymmetric encryption.
+* Symmetric encryption is where one key is used to encrypt and decrypt while asymmetric encription is where there are 2 keys, where one is public and one is private to encrypt and decrypt. 
+6. Provide and example of encryption we used in deployment.
+* I havent deployed so I wouldnt know
+7. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+* One scheme that I know of is where they tell you that you have won an amazon giftcard and to enter your private information. Another technique is to email as a company to tell you to enter your bank information. 
 
 
 
