@@ -105,6 +105,22 @@ it to cause damage or to promote good. When cyberbullying and other forms of har
 7. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
 * One scheme that I know of is where they tell you that you have won an amazon giftcard and to enter your private information. Another technique is to email as a company to tell you to enter your bank information. 
 
+**TEST CORRECTIONS**
+2. My answer was incorrect because I did not realize that the work may be distributed to amateur or nonprofessional individuals, who are not likely to have the same accuracy as the professional researchers. I had a hard time with this question and ended up guessing at the very end. 
+4. The reason why my answer was incorrect was because while fractions are sometimes represented by decimal approximations that are subject to rounding errors, integers are not. 
+6. My answer was incorrect because  the correct one involved program II correctly moving the robot to the gray square by moving the robot forward to the bottom right corner of the grid, rotating left, moving the robot forward to the upper right corner of the grid, rotating left, and moving forward to the gray square.
+14. I guessed on this question and after the score came out I had my father explain the right answer. He said that my choice would cause the algorithm in an infinite loop (unless number is a multiple of 10). For example, if the input is 512, the algorithm will display the remainder 2, then store 2 in number. The remainder of 2 divided by 10 is also 2, so 2 will be displayed and then stored in number again, and so on. If number is a multiple of 10, the algorithm will display 0 and then terminate.
+15.  My choice indicated that while the two programs initialize i to different values, the same values are printed inside the loop because program A prints i and then increments it and program B increments i and then prints it.
+18. The reason why my answer was incorrect is because the code segment moves the robot forward to the upper right corner of the grid, then rotates right two times, then moves the robot forward to the upper left corner of the grid. It then attempts to move the robot forward off the edge of the grid, causing execution to terminate.
+20. I thought that this would be correct but each value on the right line graph is about 10 times the corresponding value on the left line graph. Therefore, the average amount of data stored per user is about 10 GB, not 100 GB. 
+21. I got this wrong because i thought The files that are 1 MB and up represent 10% + 22% + 2%, or 34%.
+24. The misconception that I had was that the value of val starts at 0 and is repeatedly incremented by 2, so it counts even integers, not odd integers.
+26. The reason why I got it wrong was because Metadata is data about data; copyright information is considered descriptive information about the image.
+27. The incorrect portion of this was that problems that can be solved computationally can be solved without a connection to the Internet.
+33. When my father explained me this one he said that the information can be determined by calculating the difference between the original average and the course grade after the lowest score was dropped.
+34. I misclicked this one, my original answer was correct 
+37. The thing I got wrong with this was This code segment will draw four line segments: one with endpoints (2, 6) and (8, 8), one with endpoints (2, 6) and (6, 6), one with endpoints (2, 6) and (4, 4), and one with endpoints (2, 6) and (2, 2).
+38. The concept that I understood from this was IPv6 addresses are longer than IPv4 addresses. The length of the address has no direct effect on routing speed.
 
 
 
